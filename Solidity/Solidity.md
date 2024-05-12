@@ -6,7 +6,7 @@
 
 ### State Modifiers
 *view*: ensures that that no data will be changed in this function
-*pure*: this function doesn't read/write daa to/from the blockchain
+*pure*: this function doesn't read/write data to/from the blockchain
 Note:
 * both *view* and *pure* do not cost gas if called **externally** from outside the function
 * but they do cost gas if called **internally**
