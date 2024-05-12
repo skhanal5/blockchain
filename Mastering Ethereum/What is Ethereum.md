@@ -25,3 +25,12 @@
 	* Forces nodes to cooperated in enforcing consensus rules
 * Game-theory sound incentivization scheme
 * OSS implementation of the above
+### Ethereum: A General Purpose Blockchain
+* A distributed state machine that tracks the state transitions of a general-purpose data store
+* Store that can hold data as a key-value tuple
+	* Think: similar to RAM
+* Has memory to store both code and data
+	* Uses Ethereum blockchain to track how memory changes over time
+* Can load code into state machine and run that cod
+	* Stores resulting state change in its blockchain
+* 

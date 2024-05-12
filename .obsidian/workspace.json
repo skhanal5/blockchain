@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dbb62e75192a8e3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solidity/Solidity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mastering Ethereum/What is Ethereum.md",
+                "file": "Solidity/Solidity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mastering Ethereum/What is Ethereum.md",
+                "file": "Solidity/Solidity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mastering Ethereum/What is Ethereum.md"
+                "file": "Solidity/Solidity.md"
               }
             }
           },
@@ -167,8 +179,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d51f9b2265000565",
+  "active": "dbb62e75192a8e3e",
   "lastOpenFiles": [
+    "Slides/Blockchain/Blockchain.md",
+    "Solidity/Solidity.md",
+    "Solidity",
     "README.md",
     "Mastering Ethereum/What is Ethereum.md",
     "Slides/Blockchain/Merkle Tree.md",
@@ -181,7 +196,6 @@
     "Slides/Normal Transactions Systems/Middleman Adding value.md",
     "Slides/Normal Transactions Systems/Non-blockchain Transaction Flow.md",
     "Slides/Blockchain/Transactions.md",
-    "Slides/Blockchain/Blockchain.md",
     "Slides/Normal Transactions Systems",
     "Slides/Blockchain",
     "Table of Contents.md",
